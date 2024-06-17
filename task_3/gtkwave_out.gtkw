@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Mon Jun 17 08:29:11 2024
+[*]
+[dumpfile] "/home/aboba/Documents/task_3/test.vsd"
+[dumpfile_mtime] "Mon Jun 17 08:28:13 2024"
+[dumpfile_size] 4680
+[savefile] "/home/aboba/Documents/task_3/gtkwave_out.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-6.540427 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_filter.
+[sst_width] 233
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+tb_filter.clk
+@22
+tb_filter.data[15:0]
+@28
+tb_filter.data_en[1:0]
+@22
+tb_filter.result[23:0]
+[pattern_trace] 1
+[pattern_trace] 0
